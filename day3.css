@@ -1,0 +1,67 @@
+.one{
+  background-color: white;
+  display: inline;
+}
+.two{
+  color: coral;
+  text-align: right;
+  text-decoration: overline;
+}
+.three{
+  color: cornflowerblue;
+  text-decoration: underline;
+}
+.i1 img{
+  border:2px solid gray;
+  width: 150px;
+  height: 150px;
+  object-fit: fill;
+  box-shadow: 3px 3px 3px black;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.i2 img{
+  border:2px solid gray;
+  width: 150px;
+  height: 150px;
+  object-fit: contain;
+  box-shadow: 3px 3px 3px black;
+}
+
+
+body{
+ background-image: url("https://assets.cntraveller.in/photos/651e65983734f323ef3d37fe/16:9/w_7936,h_4464,c_limit/SWING-9.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#para{
+  border: 2px solid grey;
+  margin-top: 30px;
+  width: 150px;
+  background: linear-gradient(to top red blue pink green);
+  box-shadow: 3px 3px 3px black;
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
